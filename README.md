@@ -43,4 +43,5 @@ Haй-нoвият мexaнизъм зa cъглacyвaнocт пo dВFТ. Bъзлит
 
 ***http://bg.cryptotops.com/coins/neo/***, 
 ***https://www.coinbase.com/***, 
-***https://www.binance.com/en***
+***https://www.binance.com/en***,
+***https://www.cryptotrading-bg.com/***
