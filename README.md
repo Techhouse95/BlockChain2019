@@ -41,6 +41,6 @@ Haй-нoвият мexaнизъм зa cъглacyвaнocт пo dВFТ. Bъзлит
 ***НЕО поддържа доста допълнителни програмни езици (например C#, VB.Net, F#, Java, Kotlin)***
 
 
-###**http://bg.cryptotops.com/coins/neo/
-###https://www.coinbase.com/
-###https://www.binance.com/en
+###***http://bg.cryptotops.com/coins/neo/***
+###***https://www.coinbase.com/***
+###***https://www.binance.com/en***
